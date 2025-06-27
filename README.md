@@ -1,4 +1,4 @@
-# 🕸️ LiveChessCloud Tournament Scraper
+# 🕸️ ChessGame Tournament Spider
 
 A Python tool for scraping LiveChessCloud chess tournament data and generating standard PGN format files.
 
